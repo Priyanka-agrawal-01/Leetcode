@@ -60,5 +60,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1017-convert-to-base-2](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1017-convert-to-base-2/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 <!---LeetCode Topics End-->
