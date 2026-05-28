@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [2540-minimum-common-value](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0049-group-anagrams](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -22,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
@@ -40,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
