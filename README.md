@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -122,4 +123,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
