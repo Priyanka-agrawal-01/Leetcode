@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2540-minimum-common-value](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [2751-robot-collisions](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0169-majority-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2540-minimum-common-value](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -97,12 +100,26 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
