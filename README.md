@@ -150,13 +150,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
