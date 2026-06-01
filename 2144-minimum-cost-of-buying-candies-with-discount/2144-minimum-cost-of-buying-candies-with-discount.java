@@ -5,15 +5,13 @@ class Solution {
 
         int sum = 0;
 
-        for(int i = cost.length - 1; i >= 0; i -= 3){
+        for(int i = cost.length - 1; i >= 0; i --){
+            int pos = cost.length - 1 - i;
+            if(pos%3!=2){
+                sum+=cost[i];
 
-            sum += cost[i];
-
-            if(i - 1 >= 0){
-                sum += cost[i - 1];
             }
         }
-
         return sum;
     }
 }
