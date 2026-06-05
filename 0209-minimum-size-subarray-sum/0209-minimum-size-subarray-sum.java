@@ -3,7 +3,6 @@ class Solution {
         int left=0;
         int count=0;
         int min=Integer.MAX_VALUE;
-        int ans=0;
         for (int right=0;right<nums.length;right++){
             count+=nums[right];
             while (count >= target) {
