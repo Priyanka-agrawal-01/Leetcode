@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1017-convert-to-base-2](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1017-convert-to-base-2/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
