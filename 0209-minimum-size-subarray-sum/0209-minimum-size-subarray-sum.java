@@ -4,10 +4,8 @@ class Solution {
         int count=0;
         int min=Integer.MAX_VALUE;
         int ans=0;
-        int sum=0;
         for (int right=0;right<nums.length;right++){
             count+=nums[right];
-            sum+=nums[right];
             while (count >= target) {
                 min=Math.min(min,right - left + 1);
                 count=count-nums[left];
@@ -15,7 +13,7 @@ class Solution {
             }
 
         }
-        if(sum<target){
+        if(min==Integer.MAX_VALUE){
             return 0;
         }
         return min;
