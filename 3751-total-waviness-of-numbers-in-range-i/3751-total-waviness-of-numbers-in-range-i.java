@@ -5,10 +5,11 @@ class Solution {
 
         for (int i = num1; i <= num2; i++) {
 
-            int temp = i;
+            long temp = i;
 
             int count = 0;
-            int x = temp;
+            long x = temp;
+
             while (x > 0) {
                 count++;
                 x /= 10;
@@ -18,9 +19,9 @@ class Solution {
 
             int arr[] = new int[count];
 
-            int idx = 0;
+            int idx = count - 1;
             while (temp > 0) {
-                arr[idx++] = temp % 10;
+                arr[idx--] = (int)(temp % 10);
                 temp /= 10;
             }
 
@@ -35,11 +36,6 @@ class Solution {
     }
 
     public boolean wave(int a, int b, int c) {
-        if (b > a && b > c) {
-            return true;
-        } else if (b < a && b < c) {
-            return true;
-        }
-        return false;
+        return (b > a && b > c) || (b < a && b < c);
     }
 }
