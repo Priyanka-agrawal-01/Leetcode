@@ -6,12 +6,12 @@ class Solution {
                 val=i;
                 break;
             }
-        }
-        for(int cnt = 1; cnt < nums.length; cnt++) {
-            int i = (val + cnt) % nums.length;
-            int prev = (i - 1 + nums.length) % nums.length;
 
-            if(nums[prev] > nums[i]) {
+        }
+        for(int i=1;i<nums.length;i++){
+            int curr =(i+val)%nums.length;
+            int prev= (curr-1+nums.length)%nums.length;
+            if(nums[prev]>nums[curr]){
                 return false;
             }
         }
