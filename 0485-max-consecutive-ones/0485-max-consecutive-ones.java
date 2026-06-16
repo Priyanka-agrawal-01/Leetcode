@@ -11,9 +11,6 @@ class Solution {
                 count++;
             }
         }
-        if(max>count){
-            return max;
-        }
-        return count;
+        return max > count ? max : count;
     }
 }
