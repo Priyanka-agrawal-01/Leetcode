@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
