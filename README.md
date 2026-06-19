@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1732-find-the-highest-altitude](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Union-Find
