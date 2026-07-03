@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2540-minimum-common-value](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -252,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -359,8 +363,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
