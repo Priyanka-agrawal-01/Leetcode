@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1840-maximum-building-height](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+| [1288-remove-covered-intervals](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
