@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3474-lexicographically-smallest-generated-string](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3699-number-of-zigzag-arrays-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
