@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
@@ -436,4 +439,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->
