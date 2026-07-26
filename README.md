@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -126,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1017-convert-to-base-2](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1017-convert-to-base-2/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1840-maximum-building-height/) | Hard |
