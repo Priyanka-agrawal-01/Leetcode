@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -432,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0207-course-schedule](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -500,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -516,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -574,4 +578,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Kosaraju's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Tarjan's SCC Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0802-find-eventual-safe-states](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
