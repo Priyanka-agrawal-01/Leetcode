@@ -409,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0100-same-tree](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0100-same-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0207-course-schedule](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -512,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -566,4 +570,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
