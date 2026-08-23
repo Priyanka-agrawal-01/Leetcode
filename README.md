@@ -392,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -438,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -508,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -594,4 +598,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0802-find-eventual-safe-states/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
