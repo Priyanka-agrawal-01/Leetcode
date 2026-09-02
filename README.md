@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -463,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -501,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
