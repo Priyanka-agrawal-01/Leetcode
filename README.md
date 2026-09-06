@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0486-predict-the-winner](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
