@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0053-maximum-subarray](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0198-house-robber](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0486-predict-the-winner](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0646-maximum-length-of-pair-chain](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0646-maximum-length-of-pair-chain/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
