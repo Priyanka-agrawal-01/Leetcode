@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1017-convert-to-base-2](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1017-convert-to-base-2/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
@@ -665,4 +666,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
