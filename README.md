@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -311,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2540-minimum-common-value](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -441,6 +444,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [1872-stone-game-viii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -527,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
