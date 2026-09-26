@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2032-two-out-of-three](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2032-two-out-of-three](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -564,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0136-single-number](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/0136-single-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [2032-two-out-of-three](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/2032-two-out-of-three/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Priyanka-agrawal-01/Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
