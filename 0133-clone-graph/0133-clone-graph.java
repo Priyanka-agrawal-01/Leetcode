@@ -1,21 +1,21 @@
 class Solution {
-    private HashMap<Node, Node> oldToNew = new HashMap<>();
+
+    private HashMap<Node, Node> visited = new HashMap<>();
 
     public Node cloneGraph(Node node) {
-        if (node == null) {
-            return null;
-        }
-        if (oldToNew.containsKey(node)) {
-            return oldToNew.get(node);
-        }
-        
-        Node copy = new Node(node.val);
-        oldToNew.put(node, copy);
-        
+        if (node == null)
+            return node;
+
+        if (visited.containsKey(node))
+            return visited.get(node);
+
+        Node newNode = new Node(node.val);
+
+        visited.put(node, newNode);
+
         for (Node neighbor : node.neighbors) {
-            copy.neighbors.add(cloneGraph(neighbor));
+            newNode.neighbors.add(cloneGraph(neighbor));
         }
-        
-        return copy;
+        return newNode;
     }
 }
